@@ -11,10 +11,10 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
-## STEP-2:  Select the Sketch Plane
+## STEP-1:  Select the Sketch Plane
  Select the TOP (XY) Plane
 
-## STEP-3: Create a Sketch 
+## STEP-2: Create a Sketch 
 1.  Select Sketch > Rectangle > Center Rectangle.
 2.  Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
 3.  Click once to begin placing the rectangle.
@@ -28,20 +28,20 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 11. Click again to place the sketch.
 12. Click Finish Sketch after completing.
 
-## STEP-4: Extrude Sketch in XY Plane
+## STEP-3: Extrude Sketch in XY Plane
 1.	Select Extrude.
 2.	Select the sketch.
 3.	Click again to place the value.
 4.	Type in the value of 8mm. 
 5.	Press ENTER to accept the value.
 
-## STEP-5:  Start the sketch command
+## STEP-4:  Start the sketch command
    Select Sketch > Create Sketch.
 
-## STEP-6: Select the Sketch Plane
+## STEP-5: Select the Sketch Plane
 	Select the TOP SURFACE of the 3D block 
   
-## STEP-7: Create a RECTANGLE 
+## STEP-6: Create a RECTANGLE 
 1.	Select Sketch > RECTANGLE  > CENTER RECTANGLE.
 2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
 3.	Click once to begin placing the RECTANGLE.
@@ -49,14 +49,14 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Click again to place the RECTANGLE.
 6.	Click Finish Sketch after completing.
 
-## STEP-8:  Extrude RECTANGLE 
+## STEP-7:  Extrude RECTANGLE 
 1.	Select Extrude.
 2.	Select the Rectangle sketch.
 3.	Click again to place the value.
 4.	Type in the value of 32mm. 
 5.	Press ENTER to accept the value.
 
-## STEP-9: Create a TRIANGLE 
+## STEP-8: Create a TRIANGLE 
 1.	Select Sketch > TRIANGLE > CENTER TRIANGLE .
 2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
 3.	Click once to begin placing the TRIANGLE.
@@ -64,14 +64,14 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Click again to place the TRIANGLE.
 6.	Click Finish Sketch after completing.
 
-## STEP-10:  Extrude TRIANGLE
+## STEP-9:  Extrude TRIANGLE
 1.	Select Extrude.
 2.	Select the TRIANGLE sketch.
 3.	Click again to place the value.
 4.	Type in the value of 6mm in both direction option. 
 5.	Press ENTER to accept the value.
 
-## STEP-11: Create a PENTAGON 
+## STEP-10: Create a PENTAGON 
 1.	Select Sketch > polygon > circumscribed polygon.
 2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
 3.	Click once to begin placing the polygon.
@@ -79,14 +79,14 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Click again to place the polygon.
 6.	Click Finish Sketch after completing.
 
-## STEP-12: Extrude PENTAGON
+## STEP-11: Extrude PENTAGON
 1.	Select Extrude.
 2.	Select the PENTAGON sketch.
 3.	Click again to place the value.
 4.	Type in the value of 10mm. 
 5.	Press ENTER to accept the value.
 
-## STEP-13: Create a CIRCLE 
+## STEP-12: Create a CIRCLE 
 1.	Select Sketch > CIRCLE > CENTER CIRCLE.
 2.	Now hover over the origin (Pentagan end side) of the sketch. You should see the cursor snap to this location.
 3.	Click once to begin placing the CIRCLE.
@@ -94,7 +94,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Click again to place the circle.
 6.	Click Finish Sketch after completing.
 
-## STEP-14:  Extrude CIRCLE 
+## STEP-15:  Extrude CIRCLE 
 1.	Select Extrude.
 2.	Select the pentogan sketch.
 3.	Click again to place the value.
@@ -102,9 +102,10 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Press ENTER to accept the value.
 
 ## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
+<img width="1081" height="632" alt="Screenshot 2026-11-15 190314" src="https://github.com/user-attachments/assets/f2d4d9bd-45f3-467e-a6e8-c03833ac530a" />
 
 Output:
+<img width="1006" height="698" alt="Screenshot 2026-11-15 183143" src="https://github.com/user-attachments/assets/c9c689ab-64b8-4df8-b13d-4feebd9dafb8" />
 
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
